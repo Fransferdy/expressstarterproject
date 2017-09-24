@@ -1,13 +1,13 @@
 {
-  "name": "orcwriter",
+  "name": "expressStart",
   "version": "1.0.0",
-  "description": "A text editor for multiple readers and writers",
+  "description": "A sample express starter project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node client/index.js"
   },
-  "author": "Fernando Barbosa, Guilherme Babugia",
+  "author": "Fernando Barbosa",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
